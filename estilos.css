@@ -39,7 +39,7 @@ h2{
      color: #000;
 
 }
-@media (max-width:780px) and (min-width:300px)
+@media (max-width:780px) and (min-width:390px)
     img{
     height:250px;
     }
