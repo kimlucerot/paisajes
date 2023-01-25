@@ -45,5 +45,6 @@ h2{
     }
     a{
         font-size:15ox;
+        justify-content: space-around;
     }
 }
