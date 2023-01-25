@@ -39,8 +39,8 @@ h2{
      color: #000;
 
 }
-@media (max-width:840px) and (min-width:200px)
-    img{
-    height:250px;
+@media (max-width:780px) and (min-width:250px){
+    img,iframe{
+        height: 250px;
     }
 }
